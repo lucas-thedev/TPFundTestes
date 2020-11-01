@@ -1,0 +1,11 @@
+C:\Users\jujua\Desktop\hotel-master\BookingHotels\BookingHotels\bin\Debug\netcoreapp3.0\BookingHotels.exe
+C:\Users\jujua\Desktop\hotel-master\BookingHotels\BookingHotels\bin\Debug\netcoreapp3.0\BookingHotels.deps.json
+C:\Users\jujua\Desktop\hotel-master\BookingHotels\BookingHotels\bin\Debug\netcoreapp3.0\BookingHotels.runtimeconfig.json
+C:\Users\jujua\Desktop\hotel-master\BookingHotels\BookingHotels\bin\Debug\netcoreapp3.0\BookingHotels.runtimeconfig.dev.json
+C:\Users\jujua\Desktop\hotel-master\BookingHotels\BookingHotels\bin\Debug\netcoreapp3.0\BookingHotels.dll
+C:\Users\jujua\Desktop\hotel-master\BookingHotels\BookingHotels\bin\Debug\netcoreapp3.0\BookingHotels.pdb
+C:\Users\jujua\Desktop\hotel-master\BookingHotels\BookingHotels\obj\Debug\netcoreapp3.0\BookingHotels.csprojAssemblyReference.cache
+C:\Users\jujua\Desktop\hotel-master\BookingHotels\BookingHotels\obj\Debug\netcoreapp3.0\BookingHotels.AssemblyInfoInputs.cache
+C:\Users\jujua\Desktop\hotel-master\BookingHotels\BookingHotels\obj\Debug\netcoreapp3.0\BookingHotels.AssemblyInfo.cs
+C:\Users\jujua\Desktop\hotel-master\BookingHotels\BookingHotels\obj\Debug\netcoreapp3.0\BookingHotels.dll
+C:\Users\jujua\Desktop\hotel-master\BookingHotels\BookingHotels\obj\Debug\netcoreapp3.0\BookingHotels.pdb
